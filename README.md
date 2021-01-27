@@ -421,5 +421,7 @@ fclose(fp);
 
 **01.27 프로젝트 마감 날 진행에는 연결리스트 디버깅을 중점적으로 하였습니다. 또한 main_func.c에서 각 기능에 따라 first_func.c부터의 파일이 열리도록 연결을 하는 방법에 대해 찾아 지금까지 구현한 코드파일들을 연결하는 과정과 디버깅 과정에서 시간이 많이 소요되었습니다.**
 
+[system() 함수 사용해 파일 연결하는 방법] (https://m.blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221276451944&proxyReferer=https:%2F%2Fwww.google.com%2F)
+
     
     
